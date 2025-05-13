@@ -1,0 +1,36 @@
+h1{
+color: blue;
+background-color: lightblue;
+}
+
+body{
+background-color: pink;
+}
+
+#btn{
+    background-color: lightgreen;
+}
+
+#btn2:hover{
+    background-color: orange;
+}
+
+.myClass{
+
+    background-color: yellow;
+}
+
+.newClass{
+    color: green;
+  
+}
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+    background-color: white;
+    color: black;
+}
